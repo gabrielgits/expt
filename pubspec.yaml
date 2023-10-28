@@ -1,6 +1,6 @@
 name: expt
 description: Dart package to help you handling with exception.
-version: 0.1.5
+version: 0.1.6
 homepage: https://github.com/gabrielgits/expt.git
 
 environment:

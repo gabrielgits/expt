@@ -1,6 +1,6 @@
-import '../expt.dart';
+import 'expt_class.dart';
 
-abstract class ExptData extends Expt {
+abstract class ExptData extends ExptClass {
   ExptData([super.message = 'ExptData', super.code = 0]);
 }
 
